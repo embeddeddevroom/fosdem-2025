@@ -72,6 +72,11 @@ and follow the following rules:
        even if the code does not exist yet. If any doubts arise don't
        hesitate to contact us.
 
+     * Write a short bio section describing yourself. This will be
+       visible on the schedule and is important for FOSDEM visitors to
+       understand your background and what to expect from you. A bio
+       is required.
+
      * Last but not least, make sure you have up to date contact info.
 
 Feel free to send an email to the embedded mailing list should you have
