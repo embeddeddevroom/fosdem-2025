@@ -3,9 +3,9 @@ Automotive Devroom at FOSDEM 2025.
 
 
 Devroom date: February 1st 2025 in Brussels, Belgium
-CFP deadline: Friday, December 1st 2024.
+CFP deadline: Sunday, December 1st 2024.
 
-Final speaker confirmation on Friday, December 15th 2024.
+Final speaker confirmation on Sunday, December 15th 2024.
 
 
 CFP Introduction
@@ -37,8 +37,8 @@ CFP Schedule And Submission Details
 -----------------------------------------------------------
 
 Please submit proposals no later than the 1st of December. Please note
-that this year submission deadline is mandated by the FOSDEM orgs and
-we may not be able to accommodate any latecomers.
+that this year the submission deadline is mandated by the FOSDEM orgs
+and we may not be able to accommodate any latecomers.
 
 Please use the following URL to submit your talk to FOSDEM 2025:
 
@@ -52,7 +52,7 @@ and follow the following rules:
 
      * Select as the Track "Embedded, mobile and automotive devroom"
 
-     * Include a title and an abstract please be concise, but clear
+     * Include a title and an abstract. Please be concise, but clear
        and descriptive. Optionally you can clarify your abstract in
        the description field and provide remarks to organizers in
        the Submission Notes.
@@ -69,7 +69,7 @@ and follow the following rules:
        of the subject of your talk. Although this is the mandatory
        requirement, we still invite talks about:
        "Reverse engineering ...", "Hacking ...", "What's inside ..."
-       even if the code does not exist yet. If any doubts arrise don't
+       even if the code does not exist yet. If any doubts arise don't
        hesitate to contact us.
 
      * Last but not least, make sure you have up to date contact info.
