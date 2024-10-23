@@ -66,7 +66,7 @@ and follow the following rules:
        like to share.
 
      * This year you will need to also state the OSI-approved license
-       of the subject of your talk. Although this is the mandatory
+       of the subject of your talk. Although this is a mandatory
        requirement, we still invite talks about:
        "Reverse engineering ...", "Hacking ...", "What's inside ..."
        even if the code does not exist yet. If any doubts arise don't
